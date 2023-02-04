@@ -67,7 +67,7 @@
     'port': '8069',
 
     'git-repos': [
-        'https://github.com/sebacorreacalamuchita/cl-template2',
+        'https://github.com/sebacorreacalamuchita/cl-template3',
 
         # OCA
         'https://github.com/OCA/server-tools oca-server-tools',
